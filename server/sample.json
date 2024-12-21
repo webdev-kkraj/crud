@@ -1,0 +1,44 @@
+[
+  {
+    "empid": "AAD0001",
+    "name": "AAAA",
+    "email": "AAA@mail.com",
+    "phone": "092002003"
+  },
+  {
+    "empid": "BBD0001",
+    "name": "BBBB",
+    "email": "BBB@mail.com",
+    "phone": "092002001"
+  },
+  {
+    "empid": "CCD0001",
+    "name": "CCCC",
+    "email": "CCC@mail.com",
+    "phone": "092002023"
+  },
+  {
+    "empid": "DDD0001",
+    "name": "DDDD",
+    "email": "DDD@mail.com",
+    "phone": "092002024"
+  },
+  {
+    "empid": "EED0001",
+    "name": "EEEE",
+    "email": "EEE@mail.com",
+    "phone": "092002234"
+  },
+  {
+    "empid": "FFD0001",
+    "name": "FFFF",
+    "email": "FFF@mail.com",
+    "phone": "092002445"
+  },
+  {
+    "empid": "GGD0001",
+    "name": "GGGG",
+    "email": "GGG@mail.com",
+    "phone": "092002906"
+  }
+]
